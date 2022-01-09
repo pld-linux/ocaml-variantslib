@@ -41,7 +41,7 @@ używających biblioteki variantslib.
 
 %package devel
 Summary:	OCaml variants as first class values - development part
-Summary(pl.UTF-8):	OCamlowe warianty jako wartości pierwszoklasowe - cześć programistyczna
+Summary(pl.UTF-8):	OCamlowe warianty jako wartości pierwszoklasowe - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
